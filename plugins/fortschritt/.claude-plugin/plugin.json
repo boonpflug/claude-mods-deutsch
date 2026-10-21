@@ -1,0 +1,1 @@
+{"name": "fortschritt", "version": "0.1.0", "license": "MIT", "description": "Fortschritt über dem Prompt: Zeit, Tool-Calls und jeder Helfer-Agent live", "types": "./types/index.d.ts", "author": {"name": "boonpflug"}}

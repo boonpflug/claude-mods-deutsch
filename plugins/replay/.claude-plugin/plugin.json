@@ -1,0 +1,1 @@
+{"name": "replay", "version": "0.1.0", "license": "MIT", "description": "Spielt nach jedem Durchgang alle Datei-Änderungen Schritt für Schritt ab", "types": "./types/index.d.ts", "author": {"name": "boonpflug"}}

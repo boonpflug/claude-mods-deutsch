@@ -1,0 +1,51 @@
+{
+  "name": "claude-mods-deutsch",
+  "owner": {
+    "name": "boonpflug"
+  },
+  "metadata": {
+    "description": "8 Claude-Code-Mods auf Deutsch: Fortschritt, Skin, Merk dir das, Dateibaum, Cache-Wächter, Sprengradius, Regel merken, Replay"
+  },
+  "plugins": [
+    {
+      "name": "fortschritt",
+      "source": "./plugins/fortschritt",
+      "description": "Fortschritt über dem Prompt: Zeit, Tool-Calls und jeder Helfer-Agent live"
+    },
+    {
+      "name": "deutscher-skin",
+      "source": "./plugins/deutscher-skin",
+      "description": "Eigene Optik für Tool-Aufrufe: deutsche Verben, Icons und eigene Farben"
+    },
+    {
+      "name": "merk-dir-das",
+      "source": "./plugins/merk-dir-das",
+      "description": "Ein zweiter Blick: hebt Wichtiges aus langen Antworten hervor"
+    },
+    {
+      "name": "dateibaum",
+      "source": "./plugins/dateibaum",
+      "description": "Seitenpanel, das zeigt, welche Dateien Claude gerade liest und ändert"
+    },
+    {
+      "name": "cache-waechter",
+      "source": "./plugins/cache-waechter",
+      "description": "Warnt, bevor eine Nachricht bei kaltem Prompt-Cache das ganze Gespräch neu einliest"
+    },
+    {
+      "name": "sprengradius",
+      "source": "./plugins/sprengradius",
+      "description": "Stoppt Lösch-Befehle und zeigt vorher, welche Dateien betroffen wären"
+    },
+    {
+      "name": "regel-merken",
+      "source": "./plugins/regel-merken",
+      "description": "Macht aus deinem Feedback per Klick eine feste Regel in CLAUDE.md"
+    },
+    {
+      "name": "replay",
+      "source": "./plugins/replay",
+      "description": "Spielt nach jedem Durchgang alle Datei-Änderungen Schritt für Schritt ab"
+    }
+  ]
+}

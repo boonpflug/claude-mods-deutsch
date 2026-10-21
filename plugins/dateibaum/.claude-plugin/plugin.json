@@ -1,0 +1,1 @@
+{"name": "dateibaum", "version": "0.1.0", "license": "MIT", "description": "Seitenpanel, das zeigt, welche Dateien Claude gerade liest und ändert", "types": "./types/index.d.ts", "author": {"name": "boonpflug"}}

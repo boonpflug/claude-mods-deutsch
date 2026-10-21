@@ -1,0 +1,1 @@
+{"name": "cache-waechter", "version": "0.1.0", "license": "MIT", "description": "Warnt, bevor eine Nachricht bei kaltem Prompt-Cache das ganze Gespräch neu einliest", "types": "./types/index.d.ts", "author": {"name": "boonpflug"}}
